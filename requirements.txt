@@ -1,0 +1,24 @@
+# Core
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# Time series & forecasting
+statsmodels
+prophet        # or 'fbprophet' depending on your Python version
+xgboost
+darts          # optional, for advanced time series models
+
+# Data handling
+requests
+openpyxl       # if you process Excel files
+python-dateutil
+
+# Dashboard (optional)
+streamlit
+
+# Dev tools (optional)
+jupyter
+ipykernel
