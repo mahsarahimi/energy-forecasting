@@ -52,3 +52,4 @@ vic-electricity-demand-forecasting/
 └── README.md
 ```
 
+![Data Flow Digram](data_flow_forecasting.png)
